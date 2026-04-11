@@ -1,5 +1,5 @@
 # Natural Language Processing Portfolio
-
+**  will update the part 1/2 and part 5 **
 My NLP Portfolio, this repository is meant to showcase projects that I have worked on Natural Language Processing Applictions. This include any applied explorations and/or project.
 
 ## Part 1: Pre-Trained Models Total XP: 10  Completed All core practice and Applied exploration
@@ -93,3 +93,11 @@ The main thing I noticed is that cosine similarity alone was not enough to prope
 
 ### Demo Day  
 Presented to: Declan
+
+## Part 5: RAG, More on Similarity, and Neural Language Modeling
+ 
+- 3/30 F5_1 Retrival Augmented Generation (RAG)
+
+- 4/1 F5_2 Evan Scherrer WordNet
+
+- 4/6 F5_3 Recurrent Neural Networks and Language Modeling
