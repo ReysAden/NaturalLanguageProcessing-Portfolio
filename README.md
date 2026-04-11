@@ -28,8 +28,6 @@ My NLP Portfolio, this repository is meant to showcase projects that I have work
 
 ## Part 3: Machine Learning with Text | Total XP: 10
 
----
-
 ### Core Practice
 
 **2/25 — F3_1 Machine Learning with Text Data**
