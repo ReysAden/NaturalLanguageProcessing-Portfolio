@@ -28,6 +28,8 @@ My NLP Portfolio, this repository is meant to showcase projects that I have work
 
 ## Part 3: Machine Learning with Text | Total XP: 10
 
+---
+
 ### Core Practice
 
 **2/25 — F3_1 Machine Learning with Text Data**
@@ -41,6 +43,8 @@ Introduction to PyTorch tensors, loss functions, and the training loop.
 **3/4 — F3_3 Multiclass, Adam, and Neural Networks**
 Built a fully-connected neural network using PyTorch's nn.Sequential with a ReLU 
 hidden layer, applied to the dair-ai/emotion dataset for 6-class emotion classification.
+
+---
 
 ### Applied Exploration — F3_2
 
