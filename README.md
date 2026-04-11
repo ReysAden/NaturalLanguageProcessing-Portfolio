@@ -1,5 +1,6 @@
 # Natural Language Processing Portfolio
 **  will update the part 1/2 and part 5 **
+
 My NLP Portfolio, this repository is meant to showcase projects that I have worked on Natural Language Processing Applictions. This include any applied explorations and/or project.
 
 ## Part 1: Pre-Trained Models Total XP: 10  Completed All core practice and Applied exploration
