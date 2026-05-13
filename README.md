@@ -229,6 +229,8 @@ For this exploration, I built a tool-calling calendar assistant using Qwen2.5-0.
 
 Built a word puzzle game leveraging WordNet's hypernym hierarchy. The core mechanic involves finding common ancestors between two words in WordNet's semantic tree. The key insight is that word sense ambiguity becomes a feature: by selecting the optimal synset for each word, seemingly unrelated words can share surprisingly deep common ancestors. For example, "love" and "gun" appear unconnected using their default meanings, but under different senses they both resolve to "person" in the hierarchy. The game uses a scoring system where the depth of the found ancestor determines points, making it challenging to discover deep connections while still being able to safely guess "entity" at the root.
 
+https://github.com/ReysAden/Wordnet-Connections
+
 **Movie Recommendation System with Preference Learning** (5xp)
 
 Built an end-to-end pipeline combining RAG and DPO. The system loads 5000 movies from Kaggle, encodes movie descriptions and keywords using pretrained sentence embeddings, and performs semantic retrieval using cosine similarity. A language model generates personalized recommendations from the retrieved candidates, and a Gradio interface collects user preference votes between pairs of recommendations. These preferences are then used to fine-tune the model with DPO, teaching it to improve its recommendation quality based on actual user feedback.
